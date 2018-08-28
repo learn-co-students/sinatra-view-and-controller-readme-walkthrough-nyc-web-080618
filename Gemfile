@@ -9,6 +9,7 @@ gem 'require_all'
 group :test do
   gem 'rspec'
   gem 'capybara'
+  # gem 'rack', '>=2.0.5'
   gem 'rack-test'
   gem 'pry'
 end
